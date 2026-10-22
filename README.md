@@ -10,10 +10,13 @@ The goal is to identify patterns in hospital financial sustainability and transl
 
 ## Key Findings
 
-- **Hospital size affects profit per bed efficiency.** Large hospitals with 400 or more beds showed much higher jumps in profit from 2011 to 2020 compared to medium-tier and small-tier hospitals, showcasing that a significantly higher number of beds tends to drive average net income higher with much higher percentage jumps.
-- **Uncompensated care** Texas is the state with the highest uncompensated care across the decade, while states with significantly smaller populations such as Alaska and Rhode Island tend to have the least uncompensated care. Delaware, over 10 years, consistently has one of the highest average amounts of net income compared to Alaska, which is consistently losing on average 30 million dollars for every year reported.
--- **Outlier Payments and Hospital Financial Performance:** Several California hospitals recorded substantial outlier payments for discharges during the analyzed period. In 2018, Ronald Reagan UCLA reported approximately $58.1 million in outlier payments, while UCSF Medical Center reported $50.8 million. Both hospitals also reported negative net income that year. These results highlight the importance of examining supplemental payments alongside hospital profitability when evaluating financial performance.
-- **cost inflation** A graph reveals that 2 major time periods show a significant amount of inflation in a single year: 2019 to 2020 and 2013 to 2014. 
+- **Hospital size affects profit per bed efficiency.** Large hospitals with 400 or more beds showed much larger increases in profit from 2011 to 2020 than medium-tier and small-tier hospitals, showing that more beds tend to drive higher average net income and much larger percentage gains.
+
+- **Uncompensated care** Texas is the state with the highest uncompensated care across the decade, while states with significantly smaller populations such as Alaska and Rhode Island tend to have the least uncompensated care. Over 10 years, Delaware consistently has one of the highest average net incomes, while Alaska consistently loses an average of $ 30 million each year, as reported.
+
+- **Outlier Payments and Hospital Financial Performance:** Several California hospitals recorded substantial outlier payments for discharges during the analyzed period. In 2018, Ronald Reagan UCLA reported approximately $58.1 million in outlier payments, while UCSF Medical Center reported $50.8 million. Both hospitals also reported negative net income that year. These results highlight the importance of examining supplemental payments alongside hospital profitability when evaluating financial performance.
+
+- **Cost inflation** A graph reveals that 2 major time periods show a significant amount of inflation in a single year: 2019 to 2020 and 2013 to 2014. 
 
 *These findings reflect patterns identified in the analyzed dataset. The Tableau dashboard provides additional context through filters and facility-level comparisons.*
 
