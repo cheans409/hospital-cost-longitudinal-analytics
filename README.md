@@ -16,7 +16,7 @@ The goal is to identify patterns in hospital financial sustainability and transl
 
 - **Outlier Payments and Hospital Financial Performance:** Several California hospitals recorded substantial outlier payments for discharges during the analyzed period. In 2018, Ronald Reagan UCLA reported approximately $58.1 million in outlier payments, while UCSF Medical Center reported $50.8 million. Both hospitals also reported negative net income that year. These results highlight the importance of examining supplemental payments alongside hospital profitability when evaluating financial performance.
 
-- **Cost inflation** A graph reveals that 2 major time periods show a significant amount of inflation in a single year: 2019 to 2020 and 2013 to 2014. 
+- **Reported total costs rose more than 20% in 1,678 of 49,753 consecutive hospital-year comparisons (3.37%).** The highest share occurred from 2019 to 2020 (252 of 5,497, or 4.58%). Each comparison follows the same provider across two back-to-back fiscal periods of 364–366 days. The query removes duplicate reports, requires one distinct report per provider in each year and a positive prior-year cost, and measures nominal spending growth. Changes in service volume or mix can also affect that growth. [Reproduce the annual counts and percentages](sql%20scripts/annual_cost_comparisons.sql).
 
 *These findings reflect patterns identified in the analyzed dataset. The Tableau dashboard provides additional context through filters and facility-level comparisons.*
 
